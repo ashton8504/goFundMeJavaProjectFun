@@ -1,0 +1,18 @@
+# GoFundKyle - CLI Fundraising App
+
+## Project Overview
+
+GoFundKyle is a Command Line Interface (CLI) program built in Java that aims to raise funds for Kyle to move from New Jersey to Ohio. The program allows users to contribute money, and once a fundraising threshold of $100 is reached, it signifies that enough funds have been raised for Kyle's move.
+
+## Features
+
+### 1. Fundraising Campaign
+- Users can contribute money to the fundraising campaign.
+- The program keeps track of the total amount raised.
+
+### 2. Threshold Check
+- The program checks if the fundraising threshold of $100 has been reached.
+- Once the threshold is reached, a message is displayed, indicating that enough funds have been raised for Kyle to move.
+
+### 3. User Balances
+- Users can check their account balances to see how much they have contributed.
